@@ -30,7 +30,7 @@ client.on('guildMemberAdd', Sal => { //By aymen
 });
     });
 
-client.login('NzA1NTgyNTYwNjI4OTY1NDk3.Xqtzxw.PH_jmpnnRELOx2UVcqOF4hJWxh4');
+client.login('NzA1NTgyNTYwNjI4OTY1NDk3.Xqubpg.JjsbPFPisZLqHy7rUdoenD6GxvY');
 
 function clean(text) {
     if (typeof(text) === "string")
